@@ -1,0 +1,35 @@
+{
+    "Username": "Vedansh",
+    "LoginID": "2111PM07070604V",
+    "slot1":"7am - 10am (Bonus)",
+    "slot2":"10am - 1pm",
+    "slot3":"1pm - 4pm",
+    "slot4":"4pm - 7pm",
+    "slot5":"7pm - 10pm",
+    "slot6":"10pm - 1am",
+    "slot7":"1am - 4am (Bonus)",
+
+    "day1":
+        {
+            "date":"07-11-2021",
+            "day": "Sunday",
+            "study":"true",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"sleeping",
+                    "2":1,
+                    "note2":"😐",
+                    "3":1,
+                    "note3":"",
+                    "4":2.6251,
+                    "note4":"",
+                    "5":2.235,
+                    "note5":"",
+                    "6":1.43,
+                    "note6":"",
+                    "7":0,
+                    "note7":""
+                }
+        }
+}

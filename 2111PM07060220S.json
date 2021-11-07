@@ -1,0 +1,318 @@
+{
+    "Username":"Sarthak Keshari",
+    "LoginID":"2111PM07060220S",
+    "slot1":"7am - 10am (Bonus)",
+    "slot2":"10am - 1pm",
+    "slot3":"1pm - 4pm",
+    "slot4":"4pm - 7pm",
+    "slot5":"7pm - 10pm",
+    "slot6":"10pm - 1am",
+    "slot7":"1am - 4am (Bonus)",
+
+    "day1":
+        {
+            "date":"26-10-2021",
+            "day": "Tuesday",
+            "study":"true",
+            "slots":
+                {
+                    "1":1,
+                    "note1":"Organic",
+                    "2":1.5,
+                    "note2":"Organic",
+                    "3":2.5,
+                    "note3":"Organic",
+                    "4":1,
+                    "note4":"Inorganic",
+                    "5":1,
+                    "note5":"Inorganic",
+                    "6":0,
+                    "note6":"",
+                    "7":0,
+                    "note7":""
+                }
+        }
+    ,
+    "day2":
+        {
+            "date":"27-10-2021",
+            "day": "Wednesday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Exam Day",
+                    "2":0,
+                    "note2":"Exam Day",
+                    "3":0,
+                    "note3":"Exam Day",
+                    "4":0,
+                    "note4":"Exam Day",
+                    "5":0,
+                    "note5":"Exam Day",
+                    "6":0,
+                    "note6":"Exam Day",
+                    "7":0,
+                    "note7":"Exam Day"
+                }
+        }
+    ,
+    "day3":
+        {
+            "date":"28-10-2021",
+            "day": "Thursday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Exam Day",
+                    "2":0,
+                    "note2":"Exam Day",
+                    "3":0,
+                    "note3":"Exam Day",
+                    "4":0,
+                    "note4":"Exam Day",
+                    "5":0,
+                    "note5":"Exam Day",
+                    "6":0,
+                    "note6":"Exam Day",
+                    "7":0,
+                    "note7":"Exam Day"
+                }
+        }
+    ,
+    "day4":
+        {
+            "date":"29-10-2021",
+            "day": "Friday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Exam Day",
+                    "2":0,
+                    "note2":"Exam Day",
+                    "3":0,
+                    "note3":"Exam Day",
+                    "4":0,
+                    "note4":"Exam Day",
+                    "5":0,
+                    "note5":"Exam Day",
+                    "6":0,
+                    "note6":"Exam Day",
+                    "7":0,
+                    "note7":"Exam Day"
+                }
+        }
+    ,
+    "day5":
+        {
+            "date":"30-10-2021",
+            "day": "Saturday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Exam Day",
+                    "2":0,
+                    "note2":"Exam Day",
+                    "3":0,
+                    "note3":"Exam Day",
+                    "4":0,
+                    "note4":"Exam Day",
+                    "5":0,
+                    "note5":"Exam Day",
+                    "6":0,
+                    "note6":"Exam Day",
+                    "7":0,
+                    "note7":"Exam Day"
+                }
+        }
+    ,
+    "day6":
+        {
+            "date":"31-10-2021",
+            "day": "Sunday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Exam Day",
+                    "2":0,
+                    "note2":"Exam Day",
+                    "3":0,
+                    "note3":"Exam Day",
+                    "4":0,
+                    "note4":"Exam Day",
+                    "5":0,
+                    "note5":"Exam Day",
+                    "6":0,
+                    "note6":"Exam Day",
+                    "7":0,
+                    "note7":"Exam Day"
+                }
+        }
+    ,
+    "day7":
+        {
+            "date":"01-11-2021",
+            "day": "Monday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Diwali",
+                    "2":0,
+                    "note2":"Diwali",
+                    "3":0,
+                    "note3":"Diwali",
+                    "4":0,
+                    "note4":"Diwali",
+                    "5":0,
+                    "note5":"Diwali",
+                    "6":0,
+                    "note6":"Diwali",
+                    "7":0,
+                    "note7":"Diwali"
+                }
+        }
+    ,
+    "day8":
+        {
+            "date":"02-11-2021",
+            "day": "Tuesday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Diwali",
+                    "2":0,
+                    "note2":"Diwali",
+                    "3":0,
+                    "note3":"Diwali",
+                    "4":0,
+                    "note4":"Diwali",
+                    "5":0,
+                    "note5":"Diwali",
+                    "6":0,
+                    "note6":"Diwali",
+                    "7":0,
+                    "note7":"Diwali"
+                }
+        },
+        "day9":
+        {
+            "date":"03-11-2021",
+            "day": "Wednesday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Diwali",
+                    "2":0,
+                    "note2":"Diwali",
+                    "3":0,
+                    "note3":"Diwali",
+                    "4":0,
+                    "note4":"Diwali",
+                    "5":0,
+                    "note5":"Diwali",
+                    "6":0,
+                    "note6":"Diwali",
+                    "7":0,
+                    "note7":"Diwali"
+                }
+        },
+        "day10":
+        {
+            "date":"04-11-2021",
+            "day": "Thursday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Diwali",
+                    "2":0,
+                    "note2":"Diwali",
+                    "3":0,
+                    "note3":"Diwali",
+                    "4":0,
+                    "note4":"Diwali",
+                    "5":0,
+                    "note5":"Diwali",
+                    "6":0,
+                    "note6":"Diwali",
+                    "7":0,
+                    "note7":"Diwali"
+                }
+        },
+        "day11":
+        {
+            "date":"05-11-2021",
+            "day": "Friday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Diwali",
+                    "2":0,
+                    "note2":"Diwali",
+                    "3":0,
+                    "note3":"Diwali",
+                    "4":0,
+                    "note4":"Diwali",
+                    "5":0,
+                    "note5":"Diwali",
+                    "6":0,
+                    "note6":"Diwali",
+                    "7":0,
+                    "note7":"Diwali"
+                }
+        },
+        "day12":
+        {
+            "date":"06-11-2021",
+            "day": "Saturday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Diwali",
+                    "2":0,
+                    "note2":"Diwali",
+                    "3":0,
+                    "note3":"Diwali",
+                    "4":0,
+                    "note4":"Diwali",
+                    "5":0,
+                    "note5":"Diwali",
+                    "6":0,
+                    "note6":"Diwali",
+                    "7":0,
+                    "note7":"Diwali"
+                }
+        },
+        "day13":
+        {
+            "date":"07-11-2021",
+            "day": "Sunday",
+            "study": "true",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"",
+                    "2":0,
+                    "note2":"",
+                    "3":0,
+                    "note3":"",
+                    "4":0,
+                    "note4":"",
+                    "5":0,
+                    "note5":"",
+                    "6":0,
+                    "note6":"",
+                    "7":0,
+                    "note7":""
+                }
+        }
+}
