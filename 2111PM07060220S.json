@@ -296,7 +296,7 @@
         {
             "date":"07-11-2021",
             "day": "Sunday",
-            "study": "true",
+            "study": "false",
             "slots":
                 {
                     "1":0,
@@ -313,6 +313,121 @@
                     "note6":"",
                     "7":0,
                     "note7":""
+                }
+        },
+        "day14":
+        {
+            "date":"08-11-2021",
+            "day": "Monday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Alisha Came",
+                    "2":0,
+                    "note2":"Alisha Came",
+                    "3":0,
+                    "note3":"Alisha Came",
+                    "4":0,
+                    "note4":"Alisha Came",
+                    "5":0,
+                    "note5":"Alisha Came",
+                    "6":0,
+                    "note6":"Alisha Came",
+                    "7":0,
+                    "note7":"Alisha Came"
+                }
+        },
+        "day15":
+        {
+            "date":"09-11-2021",
+            "day": "Tuesday",
+            "study": "true",
+            "slots":
+                {
+                    "1":1,
+                    "note1":"Inorganic Chemistry",
+                    "2":1,
+                    "note2":"Organic",
+                    "3":0,
+                    "note3":"Work",
+                    "4":0.5,
+                    "note4":"Organic",
+                    "5":0,
+                    "note5":"Alisha Came",
+                    "6":0,
+                    "note6":"Alisha Came",
+                    "7":0,
+                    "note7":"Sleep"
+                }
+        },
+        "day16":
+        {
+            "date":"10-11-2021",
+            "day": "Wednesday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Birthday Celebration",
+                    "2":0,
+                    "note2":"Birthday Celebration",
+                    "3":0,
+                    "note3":"Birthday Celebration",
+                    "4":0.5,
+                    "note4":"Birthday Celebration",
+                    "5":0,
+                    "note5":"Birthday Celebration",
+                    "6":0,
+                    "note6":"Birthday Celebration",
+                    "7":0,
+                    "note7":"Birthday Celebration"
+                }
+        },
+        "day17":
+        {
+            "date":"11-11-2021",
+            "day": "Thursday",
+            "study": "false",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Alisha Came",
+                    "2":0,
+                    "note2":"Alisha Came",
+                    "3":0,
+                    "note3":"Alisha Came",
+                    "4":0,
+                    "note4":"Alisha Came",
+                    "5":0,
+                    "note5":"Alisha Came",
+                    "6":0,
+                    "note6":"Alisha Came",
+                    "7":0,
+                    "note7":"Alisha Came"
+                }
+        },
+        "day18":
+        {
+            "date":"12-11-2021",
+            "day": "Friday",
+            "study": "true",
+            "slots":
+                {
+                    "1":0,
+                    "note1":"Masti with Lishu",
+                    "2":0,
+                    "note2":"Masti with Lishu",
+                    "3":0,
+                    "note3":"Hygiene and Rest",
+                    "4":2,
+                    "note4":"Inorganic and some work",
+                    "5":0,
+                    "note5":"Tired",
+                    "6":0,
+                    "note6":"Sleep",
+                    "7":0,
+                    "note7":"Sleep"
                 }
         }
 }
